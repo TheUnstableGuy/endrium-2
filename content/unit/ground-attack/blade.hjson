@@ -1,0 +1,11 @@
+/* 
+type: legs
+name: Blade
+description: A slow-moving unit that fires barrages of missiles at nearby enemies.
+details: Recovered technology. Used as a front-line assault unit.
+health: 1070
+armor: 7
+speed: 0.45
+legCount: 4
+legSplashDamage: 12
+*/
