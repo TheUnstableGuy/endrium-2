@@ -15,9 +15,10 @@ y: 0
 mirror: true
 alternate: true
 reload: 48
+inaccuracy: 5
 shootType: {
 shots: 3
-inaccuracy: 5
+}
 bullet: {
 type: MissileBulletType
 lifetime: 120
