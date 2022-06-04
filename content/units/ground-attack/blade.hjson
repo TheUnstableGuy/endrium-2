@@ -16,9 +16,7 @@ mirror: true
 alternate: true
 reload: 48
 inaccuracy: 5
-shootType: {
 shots: 3
-}
 bullet: {
 type: MissileBulletType
 lifetime: 120
