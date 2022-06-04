@@ -15,6 +15,7 @@ y: 0
 mirror: true
 alternate: true
 reload: 48
+shootType: {
 shots: 3
 inaccuracy: 5
 bullet: {
