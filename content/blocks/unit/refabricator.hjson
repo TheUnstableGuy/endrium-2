@@ -5,15 +5,15 @@ description: Produces experimental units. Requires payload input.
 size: 3
 health: 600
 consumes: {
-power: 5
+power: 6.5
 }
 plans: [
 {
 unit: blade
-time: 1800
+time: 3000
 requirements: [
-dagger/3
-large-copper-wall/5
+dagger/4
+titanium-wall-large/10
 ]
 }
 ]
