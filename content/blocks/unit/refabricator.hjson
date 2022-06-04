@@ -1,3 +1,4 @@
+/*
 type: UnitAssembler
 name: Refabricator
 description: Produces experimental units. Requires payload input.
@@ -26,3 +27,4 @@ titanium/150
 research: {
 parent: ground-factory
 }
+*/
