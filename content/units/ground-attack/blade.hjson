@@ -18,6 +18,7 @@ reload: 48
 inaccuracy: 5
 shootPattern: {
 shots: 4
+}
 bullet: {
 type: MissileBulletType
 lifetime: 120
