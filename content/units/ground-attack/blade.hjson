@@ -13,7 +13,7 @@ name: none
 x: 2
 y: 0
 mirror: true
-alternate: true
+alternate: false
 reload: 48
 inaccuracy: 5
 shots: 3
@@ -24,6 +24,8 @@ speed: 3
 homingRange: 19
 homingPower: 3
 damage: 15
+splashDamage: 18
+splashDamageRadius: 14
 }
 }
 ]
