@@ -2,6 +2,9 @@ type: PowerTurret
 name: Equalizer
 description: Rapidly fires high-power railgun bolts at nearby ground targets.
 size: 2
+shoot: {
+reload: 10
+}
 consumes: {
 power: 8
 }
@@ -11,7 +14,7 @@ targetAir: false
 reload: 10
 shootType: {
 type: PointBulletType
-damage: 22
+damage: 25
 shootEffect: instShoot
 hitEffect: instHit
 smokeEffect: smokeCloud
@@ -29,4 +32,4 @@ silvus/100
 endrium/15
 ]
 category: turret
-research: foreshadow
+research: 
