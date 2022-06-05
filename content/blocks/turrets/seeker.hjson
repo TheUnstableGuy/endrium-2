@@ -3,6 +3,9 @@
   name: "Seeker"
   description: "fires a long range blast of plasma at enemies"
   health: 400
+  consumes: {
+  power: 7
+  }
   size: 3
   recoilAmount: 5
   reload: 180
@@ -26,7 +29,6 @@ shootSound: laser
     damage: 300
   }
   targetAir: false
-  powerUse: 7.0
   inaccuracy: 0.0
   rotateSpeed: 5
   chargeEffects: 50.0
