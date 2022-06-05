@@ -1,0 +1,23 @@
+type: PowerTurret
+name: Equalizer
+description: Rapidly fires high-power railgun bolts at nearby ground targets.
+size: 2
+health: 780
+range: 480
+targetAir: false
+reload: 10
+shootType: {
+type: PointBulletType
+damage: 22
+lifetime: 5
+speed: 85
+}
+requirements: [
+lead/300
+silicon/270
+titanium/250
+plastanium/180
+silvus/100
+]
+category: turret
+research: foreshadow
