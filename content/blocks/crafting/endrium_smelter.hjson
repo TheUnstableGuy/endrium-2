@@ -28,7 +28,9 @@ consumes: {
   }
 }
 craftTime: 1300
-outputItem: endrium/1
+outputItems: [
+endrium/1
+]
 category: crafting
 research: alloy-smelter
 requirements: [
