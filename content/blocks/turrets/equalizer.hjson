@@ -2,7 +2,9 @@ type: PowerTurret
 name: Equalizer
 description: Rapidly fires high-power railgun bolts at nearby ground targets.
 size: 2
-powerUse: 8
+consumes: {
+power: 8
+}
 health: 780
 range: 480
 targetAir: false
