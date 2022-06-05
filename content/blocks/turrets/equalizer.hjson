@@ -2,9 +2,8 @@ type: PowerTurret
 name: Equalizer
 description: Rapidly fires high-power railgun bolts at nearby ground targets.
 size: 2
-shoot: {
+shootSound: laser
 reload: 10
-}
 consumes: {
 power: 8
 }
@@ -29,7 +28,6 @@ silicon/270
 titanium/250
 plastanium/180
 silvus/100
-endrium/15
 ]
 category: turret
-research: 
+research: lancer
